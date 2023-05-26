@@ -33,3 +33,4 @@ Ques 10. Write a program to count the number of verbs, nouns, pronouns, and adje
 
 
 
+
